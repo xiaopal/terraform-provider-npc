@@ -1,4 +1,5 @@
-[submodule "vendor/github.com/hashicorp/terraform"]
+[submodule "terraform"]
 	path = vendor/github.com/hashicorp/terraform
 	url = https://github.com/hashicorp/terraform.git
 	branch = tags/v0.9.8
+	shallow = true
